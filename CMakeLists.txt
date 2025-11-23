@@ -11,5 +11,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
-set(CMAKE_FOLDER "HycFrame")
 add_subdirectory(HycSamples)
